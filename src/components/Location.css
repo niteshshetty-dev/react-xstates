@@ -1,0 +1,14 @@
+.select-bar select {
+  padding: 0.5em 1em;
+  margin: 1em;
+}
+.p {
+}
+span {
+  font-weight: 600;
+}
+
+.country,
+.state {
+  color: grey;
+}
